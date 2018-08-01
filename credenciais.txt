@@ -1,0 +1,9 @@
+usuario mariadb: root senha: hgn4891@
+
+usuario e senha para configuração wordpress:  wordpress: wordpress senha: wordpress
+
+Endereco de acesso painel wordpress: http://172.17.0.103/wp-admin
+Titulo Site: Prova Anima - Francimar Santos
+Usuário/Senha de admin do Wordpress (wp-admin): usuario: francimar.santos senha: hgn4891@
+
+
